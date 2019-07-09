@@ -4,19 +4,19 @@
       "image": "https://res.cloudinary.com/dokfyxs4e/image/upload/c_fill,g_face,h_150,w_150/v1562293828/eaelmllpwbs6uabywtll.png",
       "name": "John Doe",
       "fullname": "John Doe",
-      "description": "lorem ipsum",
-      "specialties": "special",
-      "license": "39408123",
-      "phonenumber": "873453536453",
-      "address": "123 address",
-      "position": "Head",
+      "description": "undefined",
+      "specialties": "undefined",
+      "license": "undefined",
+      "phonenumber": "undefined",
+      "address": "undefined",
+      "position": "undefined",
       "email": "olainwebriq@gmail.com",
       "website": "http://www.samplesite.com",
-      "facebook": "facebook.com/sample",
-      "instagram": "instagram.com/sample",
-      "pinterest": "pinterest.com/sample",
-      "twitter": "twitter.com/sample",
-      "linkedin": "linkedin.com/sample"
+      "facebook": "http://facebook.com/sample",
+      "instagram": "http://instagram.com/sample",
+      "pinterest": "http://pinterest.com/sample",
+      "twitter": "http://twitter.com/sample",
+      "linkedin": "http://linkedin.com/sample"
     }
   ]
 }
