@@ -4,19 +4,19 @@
       "image": "https://res.cloudinary.com/dokfyxs4e/image/upload/c_fill,g_face,h_150,w_150/v1562293828/eaelmllpwbs6uabywtll.png",
       "name": "John Doe",
       "fullname": "John Doe",
-      "description": "undefined",
-      "specialties": "undefined",
-      "license": "undefined",
-      "phonenumber": "undefined",
-      "address": "undefined",
-      "position": "undefined",
+      "description": "asdas",
+      "specialties": "asdasd",
+      "license": "34123",
+      "phonenumber": "123154",
+      "address": "asdas",
+      "position": "teasd",
       "email": "olainwebriq@gmail.com",
       "website": "http://www.samplesite.com",
-      "facebook": "http://facebook.com/sample",
-      "instagram": "http://instagram.com/sample",
-      "pinterest": "http://pinterest.com/sample",
-      "twitter": "http://twitter.com/sample",
-      "linkedin": "http://linkedin.com/sample"
+      "facebook": "http://facebook.com/test",
+      "instagram": "http://instagram.com/test",
+      "pinterest": "http://pinterest.com/test",
+      "twitter": "http://twitter.com/test",
+      "linkedin": "http://linkedin.com/test"
     }
   ]
 }
